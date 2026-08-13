@@ -1,4 +1,1 @@
-- 👋 Hi, I’m DoggoX_
-- 👀 Plugin developer/Programmer. (Java, C#, C++, html, css, js, C# unity, discord.js, sql, etc.)
-- Discord: DoggoX_
-- YT: https://www.youtube.com/c/DoggoX_
+hey im doggo
